@@ -1,0 +1,34 @@
+Primer Paso realizado:
+
+- Resolvimos un conflicto de código, reemplazando el contenido antiguo por el nuevo indicado en la imagen.
+
+-Confirmamos los cambios y eliminamos el código que no correspondía.
+
+-Verificamos que el archivo actualizado reflejara correctamente las modificaciones.
+
+Segundo paso - Comandos Git:
+
+- git status: Comprobar el estado del repositorio y archivos modificados.
+
+- git add: Añadir los cambios.
+
+- git commit: Solución del conflicto y actualización del código.
+
+- git push origin: Subir cambios a las respectivas ramas.
+
+Tercer paso - Conflictos:
+
+- El conflicto se generó por tener código antiguo y nuevo en el mismo archivo.
+
+- Solución: Mantuvimos el código nuevo (La imagen adjunta en el documento) y eliminamos el antiguo.
+
+Cuarto paso - Contribuciones:
+
+- Estudiante 1: Identificó qué partes del código se debían cambiar.
+
+- Estudiante 2 y 3: Aplicaron los cambios y validaron que el archivo estuviera correcto.
+
+Quinto paso - Reflexiones:
+- Verificar a que rama se están subiendo los cambios
+
+- Tener buena comunicacion con el equipo a la hora de realizar cambios o modificaciones dentro del codigo y documentar lo que se realice.
